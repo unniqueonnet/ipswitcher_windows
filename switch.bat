@@ -3,9 +3,9 @@ setlocal enabledelayedexpansion
 
 :: --- CONFIGURATION ---
 :: List your remote servers here (space separated)
-set SERVERS=136.113.213.213 34.32.46.47
-set SSH_USER=abc
-set SSH_PASS=123
+set SERVERS=X.X.X.X X.X.X.X
+set SSH_USER=<ssh username>
+set SSH_PASS=<ssh password>
 set LOCAL_PORT=1080
 set ROTATION_TIME=10
 
